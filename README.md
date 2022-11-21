@@ -22,7 +22,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
 ---
+
 
 ### :man_technologist: About Me :
 
@@ -34,7 +36,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 😄 Pronouns: he/him
 
+
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -55,7 +59,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia badge" width="40" height="40"/>
 </div>
 
+
 ---
+
 
 ### :fire: My Stats :
 
