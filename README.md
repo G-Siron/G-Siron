@@ -13,12 +13,24 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=G-Siron&style=flat-square&color=blue" alt="views counter"/>
  <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+
+- :telescope: I’m working as a Postdoc at the University of Bologna building GUI applications.
+
+- :zap: In my free time, I learn about Quantum mechanics and Machine/Deep Learning. I am also a big bike enthusiast.
+
 
 <!--
 **G-Siron/G-Siron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
