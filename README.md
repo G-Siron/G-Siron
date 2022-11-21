@@ -6,6 +6,9 @@
   <a href="https://www.researchgate.net/profile/Guillaume-Siron">
     <img src="https://img.shields.io/badge/ResearchGate-turquoise" alt="ResearchGate Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/guillaume-siron-4bb58a1b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### Hi there 👋
