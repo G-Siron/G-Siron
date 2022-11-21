@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://img.shields.io/badge/ResearchGate-turquoise">
+  <a href="https://www.researchgate.net/profile/Guillaume-Siron">
     <img src="https://img.shields.io/badge/ResearchGate-turquoise" alt="ResearchGate Badge"/>
   </a>
 </div>
