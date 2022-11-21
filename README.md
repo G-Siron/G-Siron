@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://img.shields.io/badge/ResearchGate-turquoise">
+    <img src="https://img.shields.io/badge/ResearchGate-turquoise" alt="ResearchGate Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
 <!--
