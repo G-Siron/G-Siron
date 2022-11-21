@@ -25,15 +25,19 @@
 ---
 
 ### :man_technologist: About Me :
+
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
 - :telescope: I’m working as a Postdoc at the University of Bologna building GUI applications.
 
 - :zap: In my free time, I learn about Quantum mechanics and Machine/Deep Learning. I am also a big bike enthusiast.
 
+- 😄 Pronouns: he/him
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python badge" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="Numpy" alt="Numpy badge" width="40" height="40"/>&nbsp;
@@ -51,17 +55,11 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia badge" width="40" height="40"/>
 </div>
 
-<!--
-**G-Siron/G-Siron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :fire: My Stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G-Siron&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Siron)](https://github.com/anuraghazra/github-readme-stats)
+
