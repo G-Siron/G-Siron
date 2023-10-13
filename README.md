@@ -30,7 +30,7 @@
 
 I am an associate Professor at the University of Franche-Comté in Besançon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Chaire de Professeur Junior at the University of Franche-Comté in Besaçon, at the Chrono-Environnement laboratory.
+- :telescope: I’m working as a Chaire de Professeur Junior at the University of Franche-Comté in Besançon, at the Chrono-Environnement laboratory.
 
 - :zap: In my free time, I learn about Quantum mechanics and Machine/Deep Learning. I am also a big bike enthusiast.
 
